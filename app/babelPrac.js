@@ -15,6 +15,5 @@ console.log(doubled);
 let a = 5;
 
 }
-console.log(process.env);
 // console.log(a);
 // SET BABEL_ENV
